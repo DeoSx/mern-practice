@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "damir mern practice",
+  "mongoUri": "mongodb+srv://damir:12345@cluster0-dd0sf.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
